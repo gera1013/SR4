@@ -397,7 +397,7 @@ class Render(object):
     # no tiene parámetros
     # renderiza el mapa de bits
     def glFinish(self):
-        file = open('lab4.bmp', 'wb')
+        file = open('sr4.bmp', 'wb')
 
         # file header
         file.write(bytes('B'.encode('ascii')))
