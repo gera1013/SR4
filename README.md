@@ -9,8 +9,8 @@ Correr el archivo con nombre srfour.py para renderizar. Después de la ejecució
 ## Resultado
 El render que se genera debería ser el siguiente
 
-### objeto con rellenado de triángulos
+### Objeto con rellenado de triángulos
 ![SR4-fill](https://i.imgur.com/Y7bEUJE.png)
 
-### z-buffer del objeto
+### Z-Buffer del objeto
 ![SR4-zbuffer](https://i.imgur.com/u8ScDhH.png)
